@@ -1,3 +1,5 @@
+#!/bin/bash
+
 wget https://zentyal.com/zentyal_installer.sh
 
 

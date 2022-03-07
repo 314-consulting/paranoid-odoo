@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sudo apt-get -y install --no-install-recommends wget gnupg ca-certificates
 
 wget -O - https://openresty.org/package/pubkey.gpg | sudo apt-key add -
