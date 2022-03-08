@@ -1,5 +1,3 @@
-# Paranoid-Odoo
-
 # ![paranoid-odoo-logo](/images/paranoid-odoo-logo.png)
 
 ## Pentesting &amp; Hardening Odoo 
