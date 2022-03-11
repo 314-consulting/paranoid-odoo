@@ -1,4 +1,4 @@
-# ![paranoid-odoo-logo](/docs/paranoidodoo-logo.png)
+# ![paranoidodoo-logo](/docs/paranoidodoo-logo.jpg)
 
 ## Pentesting &amp; Hardening Odoo 
 
