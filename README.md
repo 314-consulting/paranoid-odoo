@@ -1,6 +1,6 @@
 # ![paranoidodoo-logo](/docs/paranoidodoo-logo.jpg)
 
-## Pentesting &amp; Hardening Odoo 
+## Auditing &amp; Hardening Odoo 
 
 0. Security Jokes xD
 1. Security is a Serious Game, so, become Professional Researcher, please.
