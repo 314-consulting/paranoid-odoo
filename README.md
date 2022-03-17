@@ -23,7 +23,7 @@
 
 ## [Issues](https://https://github.com/GreenCloud-Consulting/paranoid-odoo/issues)
 
-## [Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)(https://github.com/GreenCloud-Consulting/paranoid-odoo/pulls)
+## [Pull Requests](https://github.com/GreenCloud-Consulting/paranoid-odoo/pulls)
 
 
 </div>
