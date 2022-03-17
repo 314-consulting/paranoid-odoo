@@ -1,17 +1,15 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="/docs/paranoidodoo-logo.jpg" alt="paranoidodoo-logo"></a>
+ <img width=200px height=200px src="paranoidodoo-logo.jpg" alt="paranoidodoo-logo"></a>
 </p>
 <h1 align="center">Paranoid Odoo</h1>
 <h2 align="center">Auditing & Hardening Odoo</h2>
 <h3 align="center">Odoo Security</h3>
-
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://https://github.com/GreenCloud-Consulting/paranoid-odoo/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/GreenCloud-Consulting/paranoid-odoo/pulls)
+
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](/LICENSE)
 
 </div>
@@ -20,7 +18,11 @@
 
 ## [Project Kanban](https://github.com/orgs/GreenCloud-Consulting/projects/1)
 
-## [Join to Discord](https://discord.gg/y4kt5Vp2)
+## [Join Discord](https://discord.gg/y4kt5Vp2)
+
+## [Issues](https://https://github.com/GreenCloud-Consulting/paranoid-odoo/issues)
+
+## [Pull Requests](https://github.com/GreenCloud-Consulting/paranoid-odoo/pulls)
 
 </div>
 
