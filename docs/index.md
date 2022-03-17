@@ -23,7 +23,7 @@
 
 ---
 
-<h1 align="center"> All about Security and Odoo</h1>
+# All about Security and Odoo
 
 ## Table of Contents
 
