@@ -18,15 +18,15 @@
 
 <div align="center">
 
-# [Project Kanban Organization](https://github.com/orgs/GreenCloud-Consulting/projects/1)
+## [Project Kanban](https://github.com/orgs/GreenCloud-Consulting/projects/1)
 
-# [Join to Discord of GreenCloud-Consulting](https://discord.gg/y4kt5Vp2)
+## [Join to Discord](https://discord.gg/y4kt5Vp2)
 
 </div>
 
 ---
 
-<p align="center"> All about Security and Odoo</p>
+<h1 align="center"> All about Security and Odoo</h1>
 
 ## Table of Contents
 
@@ -37,7 +37,7 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🧐 About <a name = "about"></a>
+## About <a name = "about"></a>
 
 ### All about Security and Odoo.
 
