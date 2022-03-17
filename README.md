@@ -1,21 +1,21 @@
 
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="/docs/paranoidodoo-logo.jpg" alt="paranoidodoo-logo"></a>
-</p>
-<h1 align="center">Paranoid Odoo</h1>
-<h2 align="center">Auditing & Hardening Odoo</h2>
-<h3 align="center">Odoo Security</h3>
+![paranoidodoo-logo](docs/paranoidodoo-logo.jpg)
 
-<div align="center">
+---
+
+# Paranoid Odoo
+
+## Auditing & Hardening Odoo
+
+### Odoo Security
+
+---
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](/LICENSE)
 
-</div>
-
-<div align="center">
+---
 
 ## [Project Kanban](https://github.com/orgs/GreenCloud-Consulting/projects/1)
 
@@ -26,11 +26,9 @@
 ## [Pull Requests](https://github.com/GreenCloud-Consulting/paranoid-odoo/pulls)
 
 
-</div>
-
 ---
 
-<h1 align="center"> All about Security and Odoo</h1>
+# All about Security and Odoo
 
 ## Table of Contents
 

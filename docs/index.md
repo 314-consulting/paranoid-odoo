@@ -1,11 +1,14 @@
 
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="/docs/paranoidodoo-logo.jpg" alt="paranoidodoo-logo"></a>
-</p>
-<h1 align="center">Paranoid Odoo</h1>
-<h2 align="center">Auditing & Hardening Odoo</h2>
-<h3 align="center">Odoo Security</h3>
+
+![paranoidodoo-logo](paranoidodoo-logo.jpg)
+
+---
+
+# Paranoid Odoo
+
+## Auditing & Hardening Odoo
+
+### Odoo Security
 
 ---
 
@@ -20,7 +23,7 @@
 
 ---
 
-<h1 align="center"> All about Security and Odoo</h1>
+# All about Security and Odoo
 
 ## Table of Contents
 
