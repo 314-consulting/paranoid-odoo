@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="/docs/paranoidodoo-logo.jpg" alt="paranoidodoo-logo"></a>
+ <img width=200px height=200px src="paranoidodoo-logo.jpg" alt="paranoidodoo-logo"></a>
 </p>
 <h1 align="center">Paranoid Odoo</h1>
 <h2 align="center">Auditing & Hardening Odoo</h2>
