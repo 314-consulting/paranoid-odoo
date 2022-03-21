@@ -11,15 +11,7 @@
 
 ---
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](/LICENSE)
-
----
-
 ## [Project Kanban](https://github.com/orgs/GreenCloud-Consulting/projects/1)
-
-## [Join Discord](https://discord.gg/y4kt5Vp2)
 
 ## [Issues](https://https://github.com/GreenCloud-Consulting/paranoid-odoo/issues)
 
@@ -71,7 +63,7 @@ Freedom to contribute.
 
 Be free to become a sponsor.
 
-[Open Collective](https://opencollective.com/greencloud-consulting)
+[Open Collective](https://opencollective.com/314-consulting)
 
 ## Authors <a name = "authors"></a>
 
