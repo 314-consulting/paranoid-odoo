@@ -1,5 +1,5 @@
 
-![paranoidodoo-logo](docs/paranoidodoo-logo.jpg)
+![paranoidodoo-logo](paranoidodoo-logo.jpg)
 
 ---
 
